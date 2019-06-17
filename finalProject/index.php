@@ -69,7 +69,7 @@
 	<div id = "column2"></div>
 		<div id="map"></div>
 
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkjwoUJI0OP9icIcGlYE3JY7E3-8lGmdU&callback=initMap" async defer></script>
+	<script src="YOURGOOGLEAPIHERE" async defer></script>
 
 
 	</body>
