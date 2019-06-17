@@ -190,7 +190,7 @@ function setMarkers(latitude, longitude, cacheType, difficulty) {
 	var markerLng = longitude;
 	var markerCache = cacheType;
 	var markerDiff = difficulty;
-	var url = "https://api.flickr.com/services/rest/?api_key=ec1e016f1e3ddfc8332d9fb48f037a2b&method=flickr.photos.search&lat=" + markerLat + "&lon=" + markerLng;
+	var url = "YOURFLICKRAPIHERE" + markerLat + "&lon=" + markerLng;
 	var markerPos = {
               lat: parseFloat(markerLat),
               lng: parseFloat(markerLng)};
